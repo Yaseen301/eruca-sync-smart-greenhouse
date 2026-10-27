@@ -42,7 +42,7 @@ This repository presents a student team research project. The portfolio contains
 - Worst-case recovery: 27.5 minutes, within the 30-minute design limit.
 - Final grade: A.
 
-The results and distinctions above are reported in the project portfolio and the application CV.
+The results and distinctions above are reported in the project portfolio.
 
 ## Attribution
 
